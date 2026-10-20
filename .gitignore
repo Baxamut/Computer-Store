@@ -1,0 +1,31 @@
+# CMake and IDE output
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+.ninja_*
+*.user
+*.user.*
+.vs/
+.vscode/
+.idea/
+
+# Local runtime and generated files
+Ready/
+Ready_Updated/
+data/
+test-data/
+exports/
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.log
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
